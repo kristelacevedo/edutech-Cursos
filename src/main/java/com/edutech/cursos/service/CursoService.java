@@ -1,6 +1,6 @@
 package com.edutech.cursos.service;
 
-import com.edutech.cursos.entity.Curso;
+import com.edutech.cursos.model.Curso;
 import com.edutech.cursos.repository.CursoRepository;
 import org.springframework.stereotype.Service;
 

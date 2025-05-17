@@ -1,6 +1,6 @@
 package com.edutech.cursos.controller;
 
-import com.edutech.cursos.entity.Curso;
+import com.edutech.cursos.model.Curso;
 import com.edutech.cursos.service.CursoService;
 import org.springframework.web.bind.annotation.*;
 
