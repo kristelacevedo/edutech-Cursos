@@ -1,4 +1,4 @@
-package com.edutech.cursos.entity;
+package com.edutech.cursos.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
